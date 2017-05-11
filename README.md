@@ -1,5 +1,5 @@
-# hello-world
-
+Iran City List
+=======
 [![MIT License][license-badge]][LICENSE]
 
 Data
@@ -21,4 +21,4 @@ License
 The code in this project is licensed under MIT license.
 
 [license-badge]: https://img.shields.io/npm/l/critical-webpack-plugin.svg?style=flat-square
-[license]: https://github.com/toorajam/hello-world/blob/master/LICENSE
+[license]: https://github.com/toorajam/iran-city-list/blob/master/LICENSE
