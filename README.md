@@ -12,9 +12,11 @@ Data comes from multiple sources as follows:
 Contribution
 =======
 Feel free to send a pull request to fix, update or add new entry anytime.    
+Please refer to [CONTRIBUTING](https://github.com/toorajam/iran-city-list/blob/master/CONTRIBUTING.md).
 
 To do
 =======
+Please refer to [ISSUES](https://github.com/toorajam/iran-city-list/issues).
 
 License
 =======
